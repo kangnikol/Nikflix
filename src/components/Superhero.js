@@ -9,7 +9,7 @@ import mandalorianImg from "../assets/img/superhero/mandalorian.jpeg"
 const Superhero = () => {
   return (
     <Container>
-      <Row>
+      <Row id="superhero">
         <div className="text-white text-center pb-5">
           <h1>Superhero Movies</h1>
         </div>

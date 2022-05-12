@@ -9,7 +9,7 @@ import unchartedImg from "../assets/img/trending/uncharted.jpeg"
 const Trending = () => {
   return (
     <Container>
-      <Row>
+      <Row id="trending">
         <div className="text-white text-center pb-5">
           <h1>Trending Movies</h1>
         </div>
