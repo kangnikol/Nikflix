@@ -1,0 +1,48 @@
+.BG {
+  height: 100vh;
+  background: url("../assets/img/bg/intro.jpeg");
+  background-size: cover;
+}
+
+.intro {
+  height: 450px;
+  display: flex;
+  justify-content: end;
+  align-items: end;
+}
+
+.title {
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/img/bg/horror.jpeg");
+  background-size: cover;
+}
+
+.superhero {
+  height: auto;
+  background: url("../assets/img/bg/scifi.jpg");
+  background-size: cover;
+}
+
+.movie-wrapper {
+}
+
+.movie-image {
+  height: auto;
+  background-color: black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.image-card {
+  height: 600px;
+}
